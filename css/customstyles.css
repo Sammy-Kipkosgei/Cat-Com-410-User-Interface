@@ -1,0 +1,119 @@
+.beforenav{
+	background-color: rgb(31, 87, 43);
+	color:white;
+	height: relative;
+	margin-bottom:3rem;
+}
+.navbar{
+	width: 100% !important;
+	background:inherit;
+}
+.navbar a{
+	color: white;
+	padding: 10px;
+}
+.line{
+	border:1px solid white;
+	margin: -135px 20px 0 20px;
+}
+a span{
+	color:red;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.navbar-brand{
+	font-size: 28px;
+	font-family:"Courier New", Courier, monospace;
+}
+
+.navbar-toggler{
+	color: white;
+}
+.motto{
+	color: white;
+	text-align: center;
+}
+.motto span{
+	color:red;
+
+}
+
+.col-md-3{
+	margin-right: 1rem;
+}
+
+.profile-img{
+	left:50%;
+	width: 15rem;
+	height: 15rem;
+	object-fit: cover;
+	border-radius: 50%;
+	margin-top: -20rem;
+	z-index: 999;
+	border: 1rem solid #ebeef8;
+}
+.p-card span{
+	font-style: italic;
+	margin-top:-2rem;
+}
+.social-links a {
+	font-size: 18px;
+	display: inline-block;
+	background: black;
+	color: #fff;
+	line-height: 1;
+	padding: 8px 0;
+	margin-right: 4px;
+	border-radius: 50%;
+	text-align: center;
+	width: 36px;
+	height: 36px;
+	transition: 0.3s;
+}
+
+.social-links a:hover {
+	background: red;
+	color: #fff;
+	text-decoration: none;
+}
+  #footer {
+    color: #37423b;
+    font-size: 14px;
+    background: #68916a;
+    padding:20px;
+  }
+
+
+  .boardMembers .member {
+	text-align: center;
+	margin-bottom: 20px;
+	background: #fff;
+	border: 1px solid #eef0ef;
+  }
+  
+  .boardMembers .member img {
+	margin: -1px -1px 30px -1px;
+  }
+  
+  .boardMembers .member .member-content {
+	padding: 0 20px 30px 20px;
+  }
+  
+  .boardMembers .member h4 {
+	font-weight: 700;
+	margin-bottom: 2px;
+	font-size: 18px;
+  }
+  
+  .boardMembers .member span {
+	font-style: italic;
+	display: block;
+	font-size: 13px;
+  }
+  
+  .boardMembers .member p {
+	padding-top: 10px;
+	font-size: 14px;
+	font-style: italic;
+	color: #aaaaaa;
+  }
+  
